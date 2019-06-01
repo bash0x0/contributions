@@ -8645,3 +8645,6 @@
         ### Committed by asmith@jordanskala.com
 
     
+        ### Committed by asmith@vertoptions.com
+
+    

@@ -12973,3 +12973,6 @@
         ### Committed by ['m.berardinucci@t-online.de', 'Berardinucci']
 
     
+        ### Committed by ['mandy.falkenhahn@t-online.de', 'Spellforce2']
+
+    
